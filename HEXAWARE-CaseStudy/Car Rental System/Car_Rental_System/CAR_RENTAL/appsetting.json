@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "LocalConnectionString": "Server=ACER_SWIFT;Database=CRSDB;Trusted_Connection=True"
+  }
+
+}
